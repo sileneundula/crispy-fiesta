@@ -17,6 +17,10 @@ An example of this is the **Havana Syndrome**.
 
 ### Slavery To The Digital World (DIGITALSLAVERY)
 
+### Entropy
+
+influences in **entropy** were noted. This can cause severe problems in the future if not addressed.
+
 
 
 
