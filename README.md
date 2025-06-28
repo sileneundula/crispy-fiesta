@@ -6,7 +6,7 @@
 
 #### Brain Identity Control (BIC)
 
-An example of this is the **Havana Syndrome**
+An example of this is the **Havana Syndrome**.
 
 * MKULTRA Techniques
 * Post-Hypnotic Suggestion
@@ -15,10 +15,17 @@ An example of this is the **Havana Syndrome**
 * Mind Control
 * More advanced techniques
 
+### Slavery To The Digital World (DIGITALSLAVERY)
+
+
+
+
+
 
 ### Side-Channels
 
 List side-channel attacks
 
 
-### 
+## Consciousness Experiments
+
